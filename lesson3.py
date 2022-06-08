@@ -9,3 +9,8 @@
 
 print('Hello world')
 
+# git rm --cashed test.py
+# git status
+#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
+# asdasdasdsa
+# adsasdadsad
